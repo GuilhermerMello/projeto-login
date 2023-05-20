@@ -10,13 +10,12 @@
 
     section#longin > div#imagem{
         float: left;
-        width: 30%;
-        height: 100%;
+        width: 50%;
     }
 
     section#login > div#formulario{
         float: right;
-        width: 70%;
+        width: 50%;
     }
 }
 
